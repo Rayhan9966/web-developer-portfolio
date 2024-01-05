@@ -20,6 +20,13 @@ nav {
 
 
 }
+.section-tittle{
+    color:#181818;
+text-align: center;
+font-size: 30px;
+font-weight: 700;
+
+}
 
 .text-primary {
 
@@ -76,16 +83,18 @@ nav a {
 .banner-tittle {
     font-size: 85px;
     font-weight: 700px;
-    margin-top:  5px;
-    margin-bottom:  20px;
-}
-
-.ban-description{
     margin-top: 5px;
-    margin-bottom: 20px; ;
+    margin-bottom: 20px;
+}
+
+.ban-description {
+    margin-top: 5px;
+    margin-bottom: 20px;
+    ;
 
 
 }
+
 .banner {
     padding: 30px 30px 0 150px;
     display: flex;
@@ -93,6 +102,19 @@ nav a {
     justify-content: space-between;
 
 }
-.ban-content{
+
+.ban-content {
     max width: 500px;
+}
+
+/*main section*/
+
+
+
+/*about section*/
+.about {
+    padding: 130px;
+    border-radius: 10px;
+    background: #fff8f3;
+    margin: 130px;
 }
